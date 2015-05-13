@@ -1,2 +1,1 @@
-testy test
-work pls
+terrible windows command line is terrible
